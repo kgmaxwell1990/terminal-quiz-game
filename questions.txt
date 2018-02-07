@@ -1,6 +1,8 @@
-What is the capital of Ireland
+What is the capital of Ireland?
 Dublin
-What is the capital of France
+What is the capital of France?
 Paris
-What is the capital of England
+What is the capital of England?
 London
+
+
